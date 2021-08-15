@@ -1,0 +1,49 @@
+.second-circle {
+  border: 1px solid #240403a9;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 50.3% 44.5%,
+    #7494b381 0%,
+    #3e53687e 100.2%
+  );
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 30px;
+  box-shadow: 5px 10px 15px #88888849;
+}
+
+.day {
+  padding-top: 15px;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.weather2 {
+  font-weight: 400;
+  font-size: 14px;
+  margin-left: -5px;
+}
+
+#weather-icon2 {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  opacity: 0.75;
+}
+
+.weather-pic-combo2 {
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+.avg-temp2 {
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.temp-range2 {
+  font-weight: 300;
+  font-size: 14px;
+}

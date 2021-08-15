@@ -1,0 +1,60 @@
+.first-circle {
+  border: 1px solid #240403a9;
+  border-radius: 50%;
+  background: radial-gradient(
+    circle at 50.3% 44.5%,
+    #7494b381 0%,
+    #3e53687e 100.2%
+  );
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 60px;
+  box-shadow: 5px 10px 15px #88888849;
+}
+
+.date {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.weather {
+  font-weight: 400;
+  font-size: 14px;
+  margin-left: -5px;
+}
+
+#weather-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  opacity: 0.75;
+}
+
+.weather-pic-combo {
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+
+#number {
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.temp-range {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.wind-speed {
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.humidity {
+  font-weight: 300;
+  font-size: 14px;
+}
