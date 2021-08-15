@@ -22,7 +22,7 @@ export default function Form() {
         </div>
       </div>
 
-      <div class="city">Fort Collins</div>
+      <div class="city">Denver</div>
       <div class="time">8:07 pm</div>
       <div id="bat-pic">
         <img
