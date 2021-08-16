@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div class="signature">
       <a
-        href="https://github.com/ashBHF/WeatherApp"
+        href="https://github.com/ashBHF/weather-react-app"
         target="_blank"
         rel="noreferrer"
       >
