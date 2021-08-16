@@ -6,7 +6,7 @@ export default function CircleTwo() {
     <div class="second-circle">
       <div class="day">Tues</div>
       <div class="weather-pic-combo2">
-        <img src="" id="weather-icon2" />
+        <img src="" alt="" id="weather-icon2" />
         <span class="weather2">Cloudy</span>
       </div>
       <div class="avg-temp2">89°F</div>

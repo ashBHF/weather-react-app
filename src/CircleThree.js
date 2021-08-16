@@ -6,7 +6,7 @@ export default function CircleThree() {
     <div class="third-circle">
       <div class="day3">Wed</div>
       <div class="weather-pic-combo3">
-        <img src="" id="weather-icon3" />
+        <img src="" alt="" id="weather-icon3" />
         <span class="weather3">Snowy</span>
       </div>
       <div class="avg-temp3">43°F</div>

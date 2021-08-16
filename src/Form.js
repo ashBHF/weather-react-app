@@ -27,6 +27,7 @@ export default function Form() {
       <div id="bat-pic">
         <img
           src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/012/792/original/batAwakeBranch.png?1626109239"
+          alt=""
           width="212px"
         />
       </div>

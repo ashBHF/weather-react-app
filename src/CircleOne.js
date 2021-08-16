@@ -6,7 +6,7 @@ export default function CircleOne() {
     <div className="first-circle">
       <div className="date">Monday</div>
       <div className="weather-pic-combo">
-        <img src="" id="weather-icon" />
+        <img src="" alt="" id="weather-icon" />
         <span className="weather">Sunny</span>
       </div>
       <div className="avg-temp">
